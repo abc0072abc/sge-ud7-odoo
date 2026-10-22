@@ -11,9 +11,9 @@
 
 | Usuario | Nombre y Apellidos | Correo de Acceso | Puesto / Rol | Tipo de Usuario | Privilegios por Módulo | Justificación Operativa |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| **User 1** | Carlos Ruiz Delgado *(Tu Nombre)* | `responsable.ventas@kromastudio.es` | Responsable de Ventas | Interno | - **Ventas:** Administrador<br>- **Inventario:** Usuario<br>- **Facturación:** Ninguno | Supervisa el pipeline de ventas de todo el equipo, aprueba pedidos y coordina disponibilidad con inventario sin intervenir en cobros. |
-| **User 2** | Lucía Gómez Ramos | `comercial@kromastudio.es` | Comercial | Interno | - **Ventas:** Solo mostrar documentos propios<br>- **Inventario:** Ninguno<br>- **Facturación:** Ninguno | Gestiona prospectos y elabora ofertas a clientes asignados. No debe ver negociaciones ajenas ni tocar contabilidad. |
-| **User 3** | Manuel Ortega Beltrán | `administracion@kromastudio.es` | Técnico de Facturación | Interno | - **Ventas:** Ninguno<br>- **Inventario:** Ninguno<br>- **Facturación:** Responsable de facturación | Emite facturas a partir de pedidos cerrados y registra cobros bancarios; no interviene en el proceso comercial inicial. |
+| **Usuario 1** | Agustín Borreguero Castro | `responsable.ventas@kromastudio.es` | Responsable de Ventas | Interno | - **Ventas:** Administrador<br>- **Inventario:** Usuario<br>- **Facturación:** Ninguno | Supervisa el pipeline de ventas de todo el equipo, aprueba pedidos y coordina disponibilidad con inventario sin intervenir en cobros. |
+| **Usuario 2** | Lucía Gómez Ramos | `comercial@kromastudio.es` | Comercial | Interno | - **Ventas:** Solo mostrar documentos propios<br>- **Inventario:** Ninguno<br>- **Facturación:** Ninguno | Gestiona prospectos y elabora ofertas a clientes asignados. No debe ver negociaciones ajenas ni tocar contabilidad. |
+| **Usuario 3** | Manuel Ortega Beltrán | `administracion@kromastudio.es` | Técnico de Facturación | Interno | - **Ventas:** Ninguno<br>- **Inventario:** Ninguno<br>- **Facturación:** Responsable de facturación | Emite facturas a partir de pedidos cerrados y registra cobros bancarios; no interviene en el proceso comercial inicial. |
 
 ---
 
