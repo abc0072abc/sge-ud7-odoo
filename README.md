@@ -5,7 +5,7 @@
 - **Alumno:** Agustín Borreguero Castro
 - **Empresa creada:** Kroma Studio Tech S.L.
 - **Versión de Odoo:** Odoo 19 (Community)
-- **Vídeo explicativo (YouTube con subtítulos):**
+- **Vídeo explicativo (YouTube con subtítulos):** https://youtu.be/NHzcgdcFjnc
 
 ---
 
