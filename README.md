@@ -17,16 +17,19 @@
 - **Sede:** Calle Innovación Digital 14, Polígono Industrial San Jerónimo, 41015 Sevilla
 - **Identidad corporativa:** Azul índigo (`#1E3A8A`) y Cian (`#0EA5E9`)
 - Más información en: [`empresa/ficha-empresa.md`](./empresa/ficha-empresa.md)
+  
+  <img width="600" height="400" alt="Logo" src="https://github.com/user-attachments/assets/52648d8a-54de-400d-ad6d-b9c31a429077" />
+
 
 ---
 
-## Índice del vídeo explicativo
+## <img width="25" height="25" alt="2504965" src="https://github.com/user-attachments/assets/1558c5ef-1834-438c-87b4-d4e4e1050a01" /> 2. Índice del vídeo explicativo
 
-- 00:00 Presentación de la empresa y catálogo
-- 00:56 Creación de usuarios
-- 01:42 Grupo propio
-- 02:42 Demostración de permisos en directo
-- 03:40 Ciclo de venta: Presupuesto (Comercial)
-- 04:50 Confirmación a pedido (Responsable de ventas)
-- 05:31 Entrega de almacén y bajada de stock (Logística)
-- 06:44 Emisión de factura y cobro (Facturación)
+- **00:00** Presentación de la empresa y catálogo
+- **00:56** Creación de usuarios
+- **01:42** Grupo propio
+- **02:42** Demostración de permisos en directo
+- **03:40** Ciclo de venta: Presupuesto (Comercial)
+- **04:50** Confirmación a pedido (Responsable de ventas)
+- **05:31** Entrega de almacén y bajada de stock (Logística)
+- **06:44** Emisión de factura y cobro (Facturación)
