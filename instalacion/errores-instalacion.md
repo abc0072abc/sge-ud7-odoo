@@ -20,3 +20,4 @@ Después de ejecutar el comando, tuve que reiniciar el ordenador para que los ca
 ### Resultado
 
 El problema se solucionó después de aplicar los cambios y reiniciar el ordenador. Con esto, pude ejecutar Docker Desktop y continuar con la instalación y configuración del entorno de trabajo.
+
