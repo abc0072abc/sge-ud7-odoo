@@ -21,3 +21,12 @@
 ---
 
 ## Índice del vídeo explicativo
+
+- 00:00 Presentación de la empresa y catálogo
+- 00:56 Creación de usuarios
+- 01:42 Grupo propio
+- 02:42 Demostración de permisos en directo
+- 03:40 Ciclo de venta: Presupuesto (Comercial)
+- 04:50 Confirmación a pedido (Responsable de ventas)
+- 05:31 Entrega de almacén y bajada de stock (Logística)
+- 06:44 Emisión de factura y cobro (Facturación)
